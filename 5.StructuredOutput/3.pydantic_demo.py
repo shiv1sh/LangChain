@@ -10,10 +10,8 @@ student = user(**new_user)
 print(student)
 
 
-# Good question 👍
 
 # **new_user is dictionary unpacking in Python.
-
 # Your dictionary:
 
 # new_user = { 'name': 'Shivansh' }
